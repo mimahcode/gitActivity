@@ -1,2 +1,2 @@
-var introduction;
-alert("I'm Jemimah Charles");
+var introduction = ("I'm Jemimah Charles");
+alert(introduction);
